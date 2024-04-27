@@ -1,3 +1,3 @@
 # taskmate
 my first taskmate project repository
-author - ismail saiyed
+author - ismail saiyed programmer
